@@ -4,6 +4,7 @@ metadata:
   labels:
     app: eks-nginx
   name: eks-nginx
+  namespace: petclinic
 spec:
   replicas: 3
   selector:
