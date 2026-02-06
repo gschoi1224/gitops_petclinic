@@ -50,7 +50,7 @@ if ("POST".equals(request.getMethod())) {
         /* edit.jsp의 스타일 재사용 */
         body {
             font-family: 'Noto Sans KR', sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
             min-height: 100vh;
             padding: 20px;
         }

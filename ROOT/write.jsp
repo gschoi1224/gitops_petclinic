@@ -70,7 +70,7 @@ if("POST".equals(request.getMethod())) {
 
         body {
             font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
             min-height: 100vh;
             padding: 20px;
         }
